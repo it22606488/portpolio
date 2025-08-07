@@ -553,6 +553,7 @@ header {
 }
 
 .banner__image {
+
   position: relative;
   isolation: isolate;
   height: 100%;
